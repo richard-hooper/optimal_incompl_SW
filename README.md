@@ -16,4 +16,4 @@ The repository comprises:
 
 Mata code for a greedy search algorithm that searches the design space of incomplete stepped wedge trials with a given number of periods and given number of cluster periods with data collection, to find the design that estimates the treatment effect with minimum variance. Mata is a C-style language which runs in Stata (Stata Corp, College Station, Texas USA). There is one file:
 
-optimal_incompl_SW.do
+optimal_incompl_sw.do
